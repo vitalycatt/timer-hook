@@ -1,7 +1,9 @@
+import { Timer } from "./components";
+
 function App() {
   return (
     <div>
-      <h1>Get started!</h1>
+      <Timer />
     </div>
   );
 }
